@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/KhanhTQ-Organization/com.ktgame.config.core/compare/v1.0.5...v1.0.6) (2026-05-06)
+
+
+### Bug Fixes
+
+* rl ip ([44bd035](https://github.com/KhanhTQ-Organization/com.ktgame.config.core/commit/44bd035f1790e0fa713cc2980b838603d15726e8))
+
 ## [1.0.5](https://github.com/KhanhTQ-Organization/com.ktgame.config.core/compare/v1.0.4...v1.0.5) (2025-07-04)
 
 
